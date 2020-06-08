@@ -1,0 +1,6 @@
+Resolusi fadlan
+1. Belajar dasar pemrograman web
+2. Belajar css, bootstrap
+3. Belajar Java Script, DOM, React
+4. Belajar dasar UI/UX
+5. Membuat program & study case
